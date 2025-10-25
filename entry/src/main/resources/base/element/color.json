@@ -1,0 +1,168 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "primary_black",
+      "value": "#000000"
+    },
+    {
+      "name": "primary_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dark_gray_1",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "dark_gray_2",
+      "value": "#333333"
+    },
+    {
+      "name": "dark_gray_3",
+      "value": "#4D4D4D"
+    },
+    {
+      "name": "medium_gray",
+      "value": "#666666"
+    },
+    {
+      "name": "light_gray_1",
+      "value": "#999999"
+    },
+    {
+      "name": "light_gray_2",
+      "value": "#B3B3B3"
+    },
+    {
+      "name": "light_gray_3",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "light_gray_4",
+      "value": "#E6E6E6"
+    },
+    {
+      "name": "light_gray_5",
+      "value": "#F0F0F0"
+    },
+    {
+      "name": "text_primary",
+      "value": "#000000"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#666666"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#999999"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "background_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background_secondary",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "background_tertiary",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "surface_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "surface_secondary",
+      "value": "#F9F9F9"
+    },
+    {
+      "name": "border_light",
+      "value": "#E6E6E6"
+    },
+    {
+      "name": "border_medium",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "border_dark",
+      "value": "#999999"
+    },
+    {
+      "name": "divider",
+      "value": "#E6E6E6"
+    },
+    {
+      "name": "button_primary",
+      "value": "#000000"
+    },
+    {
+      "name": "button_primary_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_secondary",
+      "value": "#F0F0F0"
+    },
+    {
+      "name": "button_secondary_text",
+      "value": "#000000"
+    },
+    {
+      "name": "button_disabled",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "button_disabled_text",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "button_hover",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "button_active",
+      "value": "#333333"
+    },
+    {
+      "name": "tab_active",
+      "value": "#000000"
+    },
+    {
+      "name": "tab_inactive",
+      "value": "#999999"
+    },
+    {
+      "name": "tab_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "input_background",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "input_border",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "input_text",
+      "value": "#000000"
+    },
+    {
+      "name": "input_placeholder",
+      "value": "#999999"
+    },
+    {
+      "name": "focus_border",
+      "value": "#000000"
+    }
+  ]
+}
